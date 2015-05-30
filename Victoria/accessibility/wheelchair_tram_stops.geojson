@@ -1,0 +1,2446 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-05-30T04:00:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/767610966",
+      "properties": {
+        "@id": "node/767610966",
+        "bench": "yes",
+        "name": "12 - St Vincents Plaza",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "source": "nearmap",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9761895,
+          -37.8082617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/767610976",
+      "properties": {
+        "@id": "node/767610976",
+        "bench": "yes",
+        "name": "12 - St Vincents Plaza",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "source": "nearmap",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9764819,
+          -37.8082288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/767610981",
+      "properties": {
+        "@id": "node/767610981",
+        "bench": "yes",
+        "name": "12 - St Vincents Plaza",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "source": "nearmap",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9764886,
+          -37.8081759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/780923483",
+      "properties": {
+        "@id": "node/780923483",
+        "name": "14 - Royal Melbourne Hospital",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9552398,
+          -37.7998548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844479991",
+      "properties": {
+        "@id": "node/844479991",
+        "bench": "yes",
+        "name": "D16 - Harbour Esplanade",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9480217,
+          -37.8208084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844488670",
+      "properties": {
+        "@id": "node/844488670",
+        "bench": "yes",
+        "name": "D16 - Harbour Esplanade",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9481135,
+          -37.820846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844495125",
+      "properties": {
+        "@id": "node/844495125",
+        "bench": "yes",
+        "name": "D14 - Southern Cross Station",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9521436,
+          -37.8196775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844495262",
+      "properties": {
+        "@id": "node/844495262",
+        "bench": "yes",
+        "name": "D14 - Southern Cross Station",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9526123,
+          -37.8194853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844495414",
+      "properties": {
+        "@id": "node/844495414",
+        "bench": "yes",
+        "name": "D15 - Batman's Hill",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9501185,
+          -37.8202644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844495486",
+      "properties": {
+        "@id": "node/844495486",
+        "bench": "yes",
+        "name": "D15 - Batman's Hill",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9505088,
+          -37.8200881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844499866",
+      "properties": {
+        "@id": "node/844499866",
+        "bench": "yes",
+        "name": "D17 - Collins Landing",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9451645,
+          -37.8215299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/844500082",
+      "properties": {
+        "@id": "node/844500082",
+        "bench": "yes",
+        "name": "D17 - Collins Landing",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9455346,
+          -37.8214637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/845656126",
+      "properties": {
+        "@id": "node/845656126",
+        "bench": "yes",
+        "name": "13 - Federation Square",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9676771,
+          -37.8180526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/845665740",
+      "properties": {
+        "@id": "node/845665740",
+        "bench": "yes",
+        "name": "13 - Federation Square",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9679708,
+          -37.8185299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/846570094",
+      "properties": {
+        "@id": "node/846570094",
+        "bench": "yes",
+        "name": "14 - Arts Precinct",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9692492,
+          -37.8214875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/846591180",
+      "properties": {
+        "@id": "node/846591180",
+        "bench": "yes",
+        "name": "14 - Arts Precinct",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9695724,
+          -37.8220077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1281079268",
+      "properties": {
+        "@id": "node/1281079268",
+        "name": "14 - Royal Melbourne Hospital",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9556209,
+          -37.8000747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1281079291",
+      "properties": {
+        "@id": "node/1281079291",
+        "name": "15 - Murphy Street",
+        "railway": "tram_stop",
+        "tramtracker": "3174",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952449,
+          -37.797645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1281079293",
+      "properties": {
+        "@id": "node/1281079293",
+        "name": "15 - Park Drive",
+        "railway": "tram_stop",
+        "tramtracker": "3174",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952379,
+          -37.797502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1283634750",
+      "properties": {
+        "@id": "node/1283634750",
+        "name": "11 - Queensberry Street",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9564307,
+          -37.8035936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1283634758",
+      "properties": {
+        "@id": "node/1283634758",
+        "name": "11 - Queensberry Street",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9563961,
+          -37.8033024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1327098171",
+      "properties": {
+        "@id": "node/1327098171",
+        "name": "5 - Elizabeth Street",
+        "railway": "tram_stop",
+        "source": "nearmap",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9633544,
+          -37.8141921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1327098213",
+      "properties": {
+        "@id": "node/1327098213",
+        "name": "5 - Elizabeth Street",
+        "railway": "tram_stop",
+        "source": "nearmap",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9636443,
+          -37.8140479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1449431297",
+      "properties": {
+        "@id": "node/1449431297",
+        "bench": "yes",
+        "name": "8 - Spring Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973557,
+          -37.8134057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1449431587",
+      "properties": {
+        "@id": "node/1449431587",
+        "bench": "yes",
+        "name": "8 - Spring Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9732155,
+          -37.8135642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1462398892",
+      "properties": {
+        "@id": "node/1462398892",
+        "bench": "yes",
+        "name": "23 - Hawthorn Bridge",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0163925,
+          -37.8199585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1462398921",
+      "properties": {
+        "@id": "node/1462398921",
+        "bench": "yes",
+        "name": "23 - Hawthorn Bridge",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0161725,
+          -37.8200173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492169310",
+      "properties": {
+        "@id": "node/1492169310",
+        "bench": "yes",
+        "name": "1 - Melbourne University",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9642351,
+          -37.7987494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492169349",
+      "properties": {
+        "@id": "node/1492169349",
+        "bench": "yes",
+        "name": "1 - Melbourne University",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9641802,
+          -37.7992783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492175303",
+      "properties": {
+        "@id": "node/1492175303",
+        "bench": "yes",
+        "name": "3 - Lincoln Square",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9636393,
+          -37.8026319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492175322",
+      "properties": {
+        "@id": "node/1492175322",
+        "bench": "yes",
+        "name": "3 - Lincoln Square",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9636398,
+          -37.8019999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492410165",
+      "properties": {
+        "@id": "node/1492410165",
+        "bench": "yes",
+        "name": "4 - Queensberry Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9630986,
+          -37.8051201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492410222",
+      "properties": {
+        "@id": "node/1492410222",
+        "bench": "yes",
+        "name": "4 - Queensberry Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963096,
+          -37.805711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492416093",
+      "properties": {
+        "@id": "node/1492416093",
+        "name": "9 - Haymarket",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9574214,
+          -37.8018687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1492416117",
+      "properties": {
+        "@id": "node/1492416117",
+        "name": "9 - Haymarket",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9577721,
+          -37.8024441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1730531408",
+      "properties": {
+        "@id": "node/1730531408",
+        "bench": "yes",
+        "name": "52 - Glenferrie Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0264624,
+          -37.8658082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1730531733",
+      "properties": {
+        "@id": "node/1730531733",
+        "bench": "yes",
+        "name": "52 - Glenferrie Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.026745,
+          -37.8658521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2182504342",
+      "properties": {
+        "@id": "node/2182504342",
+        "bench": "yes",
+        "name": "11 - City Square",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9666219,
+          -37.8157577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2182504367",
+      "properties": {
+        "@id": "node/2182504367",
+        "bench": "yes",
+        "name": "11 - City Square",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9669713,
+          -37.8162875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2182520266",
+      "properties": {
+        "@id": "node/2182520266",
+        "bench": "yes",
+        "name": "6 - Town Hall",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9658091,
+          -37.8157186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2182520268",
+      "properties": {
+        "@id": "node/2182520268",
+        "bench": "yes",
+        "name": "6 - Town Hall",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9662848,
+          -37.8155104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2188408830",
+      "properties": {
+        "@id": "node/2188408830",
+        "name": "6 - Swanston Street",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9664853,
+          -37.8132232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2190619591",
+      "properties": {
+        "@id": "node/2190619591",
+        "name": "3 - Bourke Street Mall",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9630639,
+          -37.813984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2190622029",
+      "properties": {
+        "@id": "node/2190622029",
+        "name": "7 - Queen Victoria Market",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.959827,
+          -37.8068989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2190622916",
+      "properties": {
+        "@id": "node/2190622916",
+        "name": "7 - Queen Victoria Market",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9595921,
+          -37.8065626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2190629359",
+      "properties": {
+        "@id": "node/2190629359",
+        "bench": "yes",
+        "name": "8 - Melbourne Central Station",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9639395,
+          -37.8099109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2190629360",
+      "properties": {
+        "@id": "node/2190629360",
+        "bench": "yes",
+        "name": "8 - Melbourne Central Station",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9642447,
+          -37.8103996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2190630006",
+      "properties": {
+        "@id": "node/2190630006",
+        "bench": "yes",
+        "name": "7 - RMIT University",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9632586,
+          -37.8082477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2190630009",
+      "properties": {
+        "@id": "node/2190630009",
+        "bench": "yes",
+        "name": "7 - RMIT University",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9629659,
+          -37.8078026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2209698841",
+      "properties": {
+        "@id": "node/2209698841",
+        "name": "12 - Flemington Road",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9567638,
+          -37.801568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2209698842",
+      "properties": {
+        "@id": "node/2209698842",
+        "name": "12 - Flemington Road",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9567579,
+          -37.8013938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2237569966",
+      "properties": {
+        "@id": "node/2237569966",
+        "bench": "yes",
+        "name": "18 - Hoddle Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9903468,
+          -37.8097751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2237569970",
+      "properties": {
+        "@id": "node/2237569970",
+        "bench": "yes",
+        "name": "18 - Hoddle Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9907206,
+          -37.8097496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2237589965",
+      "properties": {
+        "@id": "node/2237589965",
+        "bench": "yes",
+        "name": "16 - Wellington Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9858087,
+          -37.8092905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2237589999",
+      "properties": {
+        "@id": "node/2237589999",
+        "bench": "yes",
+        "name": "16 - Wellington Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9861195,
+          -37.8092575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2237606382",
+      "properties": {
+        "@id": "node/2237606382",
+        "bench": "yes",
+        "name": "15 - Smith Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9830088,
+          -37.8089249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2237606390",
+      "properties": {
+        "@id": "node/2237606390",
+        "bench": "yes",
+        "name": "15 - Smith Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9821123,
+          -37.8088942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2237624002",
+      "properties": {
+        "@id": "node/2237624002",
+        "bench": "yes",
+        "name": "13 - Lansdowne Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9784388,
+          -37.8084352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2237624010",
+      "properties": {
+        "@id": "node/2237624010",
+        "bench": "yes",
+        "name": "13 - Lansdowne Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.978786,
+          -37.8085403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2241764639",
+      "properties": {
+        "@id": "node/2241764639",
+        "bench": "yes",
+        "name": "24 - Burnley Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0103595,
+          -37.8114561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2241768520",
+      "properties": {
+        "@id": "node/2241768520",
+        "bench": "yes",
+        "name": "24 - Burnley Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0099791,
+          -37.8114781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2241776409",
+      "properties": {
+        "@id": "node/2241776409",
+        "bench": "yes",
+        "name": "25 - River Boulevard",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0129427,
+          -37.811808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2241776415",
+      "properties": {
+        "@id": "node/2241776415",
+        "bench": "yes",
+        "name": "25 - River Boulevard",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0132383,
+          -37.811786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2244681698",
+      "properties": {
+        "@id": "node/2244681698",
+        "bench": "yes",
+        "name": "17 - Bosisto Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9966453,
+          -37.8182809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2244681699",
+      "properties": {
+        "@id": "node/2244681699",
+        "bench": "yes",
+        "name": "17 - Bosisto Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9965289,
+          -37.8182974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2244683130",
+      "properties": {
+        "@id": "node/2244683130",
+        "bench": "yes",
+        "name": "15 - Epworth Hospital",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9935988,
+          -37.8179623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2244683131",
+      "properties": {
+        "@id": "node/2244683131",
+        "bench": "yes",
+        "name": "15 - Epworth Hospital",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9939066,
+          -37.8179661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246018773",
+      "properties": {
+        "@id": "node/2246018773",
+        "bench": "yes",
+        "name": "54 - Inglisby Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1031378,
+          -37.8154385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246018777",
+      "properties": {
+        "@id": "node/2246018777",
+        "bench": "yes",
+        "name": "54 - Inglisby Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1027311,
+          -37.8154525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246023063",
+      "properties": {
+        "@id": "node/2246023063",
+        "bench": "yes",
+        "name": "55 - Hood Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1097768,
+          -37.816298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246023064",
+      "properties": {
+        "@id": "node/2246023064",
+        "bench": "yes",
+        "name": "55 - Hood Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1094709,
+          -37.816197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246567625",
+      "properties": {
+        "@id": "node/2246567625",
+        "bench": "yes",
+        "name": "58 - Box Hill",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1223116,
+          -37.8178851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246575818",
+      "properties": {
+        "@id": "node/2246575818",
+        "bench": "yes",
+        "name": "57 - Nelson Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1199768,
+          -37.8175127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246577109",
+      "properties": {
+        "@id": "node/2246577109",
+        "bench": "yes",
+        "name": "57 - Nelson Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1186018,
+          -37.8174048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246581262",
+      "properties": {
+        "@id": "node/2246581262",
+        "bench": "yes",
+        "name": "56 - Elgar Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1157036,
+          -37.8169575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2246581270",
+      "properties": {
+        "@id": "node/2246581270",
+        "bench": "yes",
+        "name": "56 - Elgar Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1143182,
+          -37.8168517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2247180694",
+      "properties": {
+        "@id": "node/2247180694",
+        "bench": "yes",
+        "name": "1 - Spencer Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9549367,
+          -37.8188703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2247180695",
+      "properties": {
+        "@id": "node/2247180695",
+        "bench": "yes",
+        "name": "1 - Spencer Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9552773,
+          -37.8187086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2247255677",
+      "properties": {
+        "@id": "node/2247255677",
+        "bench": "yes",
+        "name": "7 - 101 Collins Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9707864,
+          -37.8142072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2247259684",
+      "properties": {
+        "@id": "node/2247259684",
+        "bench": "yes",
+        "name": "7 - 101 Collins Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9704288,
+          -37.8143781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2247271587",
+      "properties": {
+        "@id": "node/2247271587",
+        "bench": "yes",
+        "name": "5 - Elizabeth Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9634163,
+          -37.816406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2247272471",
+      "properties": {
+        "@id": "node/2247272471",
+        "bench": "yes",
+        "name": "5 - Elizabeth Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9637704,
+          -37.8162505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2248053775",
+      "properties": {
+        "@id": "node/2248053775",
+        "name": "51 - North Balwyn",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0841552,
+          -37.794619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250222952",
+      "properties": {
+        "@id": "node/2250222952",
+        "name": "27 - Burwood Road",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0263326,
+          -37.8217453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250223008",
+      "properties": {
+        "@id": "node/2250223008",
+        "name": "27 - Power Street",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0261668,
+          -37.8215169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250239912",
+      "properties": {
+        "@id": "node/2250239912",
+        "name": "25 - St James Park",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0210707,
+          -37.820885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250239916",
+      "properties": {
+        "@id": "node/2250239916",
+        "name": "25 - St James Park",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0211325,
+          -37.8209269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250245483",
+      "properties": {
+        "@id": "node/2250245483",
+        "name": "26 - Hawthorn Station",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0248113,
+          -37.8213914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250245484",
+      "properties": {
+        "@id": "node/2250245484",
+        "name": "26 - Hawthorn Station",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0246753,
+          -37.8213441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250248627",
+      "properties": {
+        "@id": "node/2250248627",
+        "name": "28 - Wattle Road",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0258154,
+          -37.8248139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2250248628",
+      "properties": {
+        "@id": "node/2250248628",
+        "name": "28 - Wattle Road",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0257572,
+          -37.8249148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2262242782",
+      "properties": {
+        "@id": "node/2262242782",
+        "name": "4 - Elizabeth Street",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9647227,
+          -37.8182355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2262242790",
+      "properties": {
+        "@id": "node/2262242790",
+        "name": "4 - Elizabeth Street",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9642165,
+          -37.8184459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2263407404",
+      "properties": {
+        "@id": "node/2263407404",
+        "bench": "yes",
+        "name": "20 - Domain Interchange",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9719265,
+          -37.8325133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2263407406",
+      "properties": {
+        "@id": "node/2263407406",
+        "bench": "yes",
+        "name": "20 - Domain Interchange",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9723736,
+          -37.8328227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2263407410",
+      "properties": {
+        "@id": "node/2263407410",
+        "bench": "yes",
+        "name": "20 - Domain Interchange",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9718727,
+          -37.832541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2263407413",
+      "properties": {
+        "@id": "node/2263407413",
+        "bench": "yes",
+        "name": "20 - Domain Interchange",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9723214,
+          -37.8328523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267898267",
+      "properties": {
+        "@id": "node/2267898267",
+        "bench": "yes",
+        "name": "129 - Port Melbourne",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9328633,
+          -37.8407252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267902829",
+      "properties": {
+        "@id": "node/2267902829",
+        "bench": "yes",
+        "name": "128 - Graham Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9373418,
+          -37.8370599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267904410",
+      "properties": {
+        "@id": "node/2267904410",
+        "bench": "yes",
+        "name": "128 - Graham Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9372697,
+          -37.8370254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267915140",
+      "properties": {
+        "@id": "node/2267915140",
+        "bench": "yes",
+        "name": "127 - North Port",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9431246,
+          -37.8335304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267915142",
+      "properties": {
+        "@id": "node/2267915142",
+        "bench": "yes",
+        "name": "127 - North Port",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9435442,
+          -37.8331957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267919764",
+      "properties": {
+        "@id": "node/2267919764",
+        "bench": "yes",
+        "name": "126 - Montague Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9485271,
+          -37.8302312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267919766",
+      "properties": {
+        "@id": "node/2267919766",
+        "bench": "yes",
+        "name": "126 - Montague Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9487462,
+          -37.8301805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267922211",
+      "properties": {
+        "@id": "node/2267922211",
+        "bench": "yes",
+        "name": "125A - Southbank Tram Depot",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9536165,
+          -37.8277219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2267922218",
+      "properties": {
+        "@id": "node/2267922218",
+        "bench": "yes",
+        "name": "125A - Southbank Tram Depot",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.954089,
+          -37.8274205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2271535886",
+      "properties": {
+        "@id": "node/2271535886",
+        "bench": "yes",
+        "name": "25 - Commercial Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9786399,
+          -37.8445805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2271539873",
+      "properties": {
+        "@id": "node/2271539873",
+        "bench": "yes",
+        "name": "25 - Commercial Road",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9783471,
+          -37.8440084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2271541800",
+      "properties": {
+        "@id": "node/2271541800",
+        "bench": "yes",
+        "name": "27 - High Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9805802,
+          -37.8499164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2271542036",
+      "properties": {
+        "@id": "node/2271542036",
+        "bench": "yes",
+        "name": "27 - High Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9802977,
+          -37.8493541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2271545191",
+      "properties": {
+        "@id": "node/2271545191",
+        "bench": "yes",
+        "name": "29 - Union Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9817269,
+          -37.8530702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2271545893",
+      "properties": {
+        "@id": "node/2271545893",
+        "bench": "yes",
+        "name": "29 - Union Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.981442,
+          -37.8525003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272180144",
+      "properties": {
+        "@id": "node/2272180144",
+        "bench": "yes",
+        "name": "134 - Park Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9754262,
+          -37.8608817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272180145",
+      "properties": {
+        "@id": "node/2272180145",
+        "bench": "yes",
+        "name": "134 - Park Street",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9752609,
+          -37.8610548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272180823",
+      "properties": {
+        "@id": "node/2272180823",
+        "bench": "yes",
+        "name": "135 - Jacka Boulevard",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9733981,
+          -37.8620868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272180826",
+      "properties": {
+        "@id": "node/2272180826",
+        "bench": "yes",
+        "name": "135 - Jacka Boulevard",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9731574,
+          -37.8623053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272182264",
+      "properties": {
+        "@id": "node/2272182264",
+        "bench": "yes",
+        "name": "138 - St Kilda Beach (Luna Park)",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9768576,
+          -37.866971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2272182808",
+      "properties": {
+        "@id": "node/2272182808",
+        "bench": "yes",
+        "name": "138 - St Kilda Beach (Luna Park)",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9772548,
+          -37.8670073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2275160225",
+      "properties": {
+        "@id": "node/2275160225",
+        "bench": "no",
+        "name": "58 - Box Hill",
+        "railway": "tram_stop",
+        "shelter": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1218749,
+          -37.8177506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2279064309",
+      "properties": {
+        "@id": "node/2279064309",
+        "name": "5 - Swanston Street",
+        "railway": "tram_stop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9668219,
+          -37.8176702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2279153640",
+      "properties": {
+        "@id": "node/2279153640",
+        "bench": "yes",
+        "name": "10 - Parliament Station",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9743702,
+          -37.8123041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2279153649",
+      "properties": {
+        "@id": "node/2279153649",
+        "bench": "yes",
+        "name": "10 - Parliament Station",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9744373,
+          -37.8123291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3365775176",
+      "properties": {
+        "@id": "node/3365775176",
+        "bench": "yes",
+        "name": "D18 - Victoria Harbour Docklands",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9419006,
+          -37.8209231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3534666334",
+      "properties": {
+        "@id": "node/3534666334",
+        "bench": "yes",
+        "name": "136 - The Esplanade",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9735835,
+          -37.8652556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3534666340",
+      "properties": {
+        "@id": "node/3534666340",
+        "bench": "yes",
+        "name": "136 - The Esplanade",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9739029,
+          -37.8653941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3537280002",
+      "properties": {
+        "@id": "node/3537280002",
+        "bench": "yes",
+        "name": "10 - Bourke Street Mall/Swanston St",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9652704,
+          -37.8127807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3537280008",
+      "properties": {
+        "@id": "node/3537280008",
+        "bench": "yes",
+        "name": "10 - Bourke Street Mall/Swanston St",
+        "railway": "tram_stop",
+        "shelter": "yes",
+        "shelter_type": "public_transport",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9655814,
+          -37.8133201
+        ]
+      }
+    }
+  ]
+}
